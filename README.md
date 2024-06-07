@@ -1,6 +1,6 @@
 # mi_card
 
-A new Flutter project.
+My first project to be uploaded on Github
 
 ## Getting Started
 
